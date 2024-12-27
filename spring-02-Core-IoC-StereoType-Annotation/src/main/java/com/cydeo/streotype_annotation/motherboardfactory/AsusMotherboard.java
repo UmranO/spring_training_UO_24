@@ -1,8 +1,7 @@
 package com.cydeo.streotype_annotation.motherboardfactory;
-
 import org.springframework.stereotype.Component;
 
-
+@Component
 public class AsusMotherboard extends Motherboard {
 
     public AsusMotherboard() {
